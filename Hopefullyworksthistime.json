@@ -1,9 +1,10 @@
 {
-  "name": "ye",
-  "description": "ye",
+  "name": "Kotikovtheme",
+  "description": "Based on Purpdark V3, by @vve1",
   "authors": [
     {
-      "name": "@pjwt
+      "name": "@pjwt"
+    }
   ],
   "semanticColors": {
     "HEADER_PRIMARY": ["#9472D5"],
@@ -68,7 +69,7 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/imspacelol/THme23/refs/heads/main/kanye%20bear%20(1).jpg",
+    "url": "https://github.com/imspacelol/THme23/blob/main/kanye%20bear%20(1).jpg",
     "alpha": 0.9,
     "color": "#0A0A0A"
   }
