@@ -1,17 +1,17 @@
 {
-  "name": "Yetheme",
-  "description": "Yetheme",
+  "name": "Kotikovtheme",
+  "description": "Based on Purpdark V3, by @vve1",
   "authors": [
     {
-      "name": "@pjwt"
+      "name": "@kotru21"
     }
   ],
   "semanticColors": {
     "HEADER_PRIMARY": ["#9472D5"],
     "HEADER_SECONDARY": ["#9472D5"],
-    "TEXT_NORMAL": ["FF0000"],
-    "TEXT_MUTED": ["#FF0000"],
-    "TEXT_LINK": ["#FF0000"],
+    "TEXT_NORMAL": ["#F3E8FF"],
+    "TEXT_MUTED": ["#5E5E5E"],
+    "TEXT_LINK": ["#C48EEE"],
     "INTERACTIVE_NORMAL": ["#B599C5"],
     "INTERACTIVE_HOVER": ["#B988BC"],
     "INTERACTIVE_ACTIVE": ["#E1C5FD"],
@@ -37,8 +37,8 @@
     "SCROLLBAR_AUTO_TRACK": ["#CAB3DA"],
     "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
     "CHANNELS_DEFAULT": ["#90769E"],
-    "TEXT_DANGER": [#FF0000"],
-    "KEYBOARD": ["#FF0000"],
+    "TEXT_DANGER": ["#FC0E61"],
+    "KEYBOARD": ["#0A0A0A"],
     "CHANNEL_ICON": ["#BEB3C6"],
     "CHAT_BACKGROUND": ["#0A0A0A"],
     "SPOILER_HIDDEN_BACKGROUND": ["#4B4B4B"],
