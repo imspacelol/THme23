@@ -11,7 +11,7 @@
     "HEADER_SECONDARY": ["#9472D5"],
     "TEXT_NORMAL": ["FF0000"],
     "TEXT_MUTED": ["#FF0000"],
-    "TEXT_LINK": ["#0000FF"],
+    "TEXT_LINK": ["#FF0000"],
     "INTERACTIVE_NORMAL": ["#B599C5"],
     "INTERACTIVE_HOVER": ["#B988BC"],
     "INTERACTIVE_ACTIVE": ["#E1C5FD"],
@@ -37,8 +37,8 @@
     "SCROLLBAR_AUTO_TRACK": ["#CAB3DA"],
     "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
     "CHANNELS_DEFAULT": ["#90769E"],
-    "TEXT_DANGER": ["#FC0E61"],
-    "KEYBOARD": ["#0A0A0A"],
+    "TEXT_DANGER": [#FF0000"],
+    "KEYBOARD": ["#FF0000"],
     "CHANNEL_ICON": ["#BEB3C6"],
     "CHAT_BACKGROUND": ["#0A0A0A"],
     "SPOILER_HIDDEN_BACKGROUND": ["#4B4B4B"],
@@ -69,7 +69,7 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/imspacelol/THme23/refs/heads/main/KanyeBackgrounf%20(1)%20(1)%20(1).jpg",
+    "url": "https://static.myfigurecollection.net/upload/pictures/2023/07/24/3681733.gif",
     "alpha": 0.9,
     "color": "#0A0A0A"
   }
